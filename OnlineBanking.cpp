@@ -1,3 +1,6 @@
+//IT21266300-Bandara K.M.V.T.
+//MLB_04.02_11
+//Transactions and Loan class
 #include<iostream>
 #include<iomanip>
 #include<cstring>
