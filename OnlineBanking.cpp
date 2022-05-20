@@ -87,5 +87,14 @@ void loan::displayPaymentDetails();
   cout<<"Payment Amount:"<<loanAmount<<endl;
   cout<<"Have to pay:"<<balance<<endl;
 }
+// main method
+int main(){
+   
+  Transactions* T1 Transactions(2022 / 02 / 04, 'T625389', 839273746);
+  Transactions* T2 Transactions(2022 / 02 / 05, 'T625390', 258647821);
+  Loan* L1 Loan(2000000, 'personal', 839273746, 100000, 'L87855');
+}
+
+
 
 
